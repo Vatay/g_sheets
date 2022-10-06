@@ -1,16 +1,10 @@
-# balance
 
-A new Flutter project.
 
-## Getting Started
+<h3 align="center">Підрахунок доходів та витрат за допомогою Google Exel</h3>
+<h4>Використовувався пакет gsheets</h4>
+<h3>Гіфка з прикладом роботи додатку</h3>
+<img src="https://github.com/Vatay/g_sheets/blob/95678d11505ae6ce32db6c7c4c1624f41ca6f13e/readme/1.png" alt="" width="265">
+<img src="https://github.com/Vatay/g_sheets/blob/95678d11505ae6ce32db6c7c4c1624f41ca6f13e/readme/2.png" alt="" width="265">
+<h3>Таблиця</h3>
+<img src="https://github.com/Vatay/g_sheets/blob/95678d11505ae6ce32db6c7c4c1624f41ca6f13e/readme/3.png" alt="" width="265">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
